@@ -1,0 +1,3 @@
+C:/Users/Asus/Documents/GitHub/CMake/built/CMakeFiles/cmake.dir
+C:/Users/Asus/Documents/GitHub/CMake/built/CMakeFiles/ALL_BUILD.dir
+C:/Users/Asus/Documents/GitHub/CMake/built/CMakeFiles/ZERO_CHECK.dir
